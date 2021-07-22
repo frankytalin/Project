@@ -1,0 +1,8 @@
+viaggi/dal/ViaggioDAO.class
+viaggi/entities/Viaggio.class
+viaggi/service/ViaggioServiceImpl.class
+viaggi/integration/ViaggioMVC.class
+viaggi/service/ViaggioService.class
+viaggi/entities/Utente.class
+viaggi/integration/ViaggioREST.class
+viaggi/PwViaggiApplication.class
